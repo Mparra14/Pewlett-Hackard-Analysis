@@ -27,6 +27,6 @@ As the "Silver Tsunami' takes place there will about 72,458 roles that will need
  
  ![mentorship_titles](https://github.com/Mparra14/Pewlett-Hackard-Analysis/blob/main/Mentors_per_title.png)
  ![retiring_titles_img](https://github.com/Mparra14/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png)
-![image](https://user-images.githubusercontent.com/107594924/182075095-301ddd61-b1d7-45e6-a149-b492bbadf43d.png)
+
 
 
