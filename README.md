@@ -25,7 +25,7 @@ As the "Silver Tsunami' takes place there will about 72,480 roles that will need
  
  When it comes to mentorship, we can see that there are only 1549 employees that would qualify for this. This would mean that each qualified employee that shares a title with a retiree, would be able to get a mentor. There are more than enough retirees that would be able to mentor each employee that corresponds to their role. You can see the table below for titles for the mentorship qualified employees and you can compare it to the retiree titles. 
  
- ![mentorship_titles]()
+ ![mentorship_titles](https://github.com/Mparra14/Pewlett-Hackard-Analysis/blob/main/Mentors_per_title.png)
  ![retiring_titles_img](https://github.com/Mparra14/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png)
  
 
