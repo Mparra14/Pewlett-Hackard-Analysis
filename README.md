@@ -7,7 +7,7 @@ In this project we were given thousands of  date from a company, Pewlett-Hackard
 
 * The amount of retirees that will leave will be approximately over 72,000. This can be seen in the retiring title table shown below. 
 
-![unique_titles_img]()
+![unique_titles_img](https://github.com/Mparra14/Pewlett-Hackard-Analysis/blob/main/unique_titles.png)
 
 * The titles that are held by upcoming retirees that will be the most affected are the senior engineers and senior staff members, as both of these roles will lose 50,842 employees combined. This can be seen in the table below. 
 
