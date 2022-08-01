@@ -13,7 +13,7 @@ In this project we were given thousands of  date from a company, Pewlett-Hackard
 
 ![retiring_titles_img](https://github.com/Mparra14/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png)
 
-* The least affected role in this "Silver Tsunami" is the . as it can be seen in the table above. 
+* The least affected role in this "Silver Tsunami" is the Manager roles, as there are only two employees who hold that role and will retire.This can also be seen in the table above. 
 * The amount of eligible mentors are only 1549 employees. Which may not be enough to train the next generation. This can be seen in the table below.
 
 ![mentorship_eligibility_img](Mentor_eligibility.png)
