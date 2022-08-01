@@ -16,7 +16,7 @@ In this project we were given thousands of  date from a company, Pewlett-Hackard
 * The least affected role in this "Silver Tsunami" is the . as it can be seen in the table above. 
 * The amount of eligible mentors are only 1549 employees. Which may not be enough to train the next generation. This can be seen in the table below.
 
-![mentorship_eligibility_img]()
+![mentorship_eligibility_img](Mentor_eligibility.png)
 
 # Analysis:
 
