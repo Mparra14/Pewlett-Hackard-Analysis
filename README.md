@@ -11,7 +11,7 @@ In this project we were given thousands of  date from a company, Pewlett-Hackard
 
 * The titles that are held by upcoming retirees that will be the most affected are the senior engineers and senior staff members, as both of these roles will lose 50,842 employees combined. This can be seen in the table below. 
 
-![retiring_titles_img]()
+![retiring_titles_img](https://github.com/Mparra14/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png)
 
 * The least affected role in this "Silver Tsunami" is the . as it can be seen in the table above. 
 * The amount of eligible mentors are only 1549 employees. Which may not be enough to train the next generation. This can be seen in the table below.
