@@ -14,10 +14,18 @@ In this project we were given thousands of  date from a company, Pewlett-Hackard
 ![retiring_titles_img](https://github.com/Mparra14/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png)
 
 * The least affected role in this "Silver Tsunami" is the Manager roles, as there are only two employees who hold that role and will retire.This can also be seen in the table above. 
-* The amount of eligible mentors are only 1549 employees. Which may not be enough to train the next generation. This can be seen in the table below.
+* The amount of eligible mentors are only 1549 employees. These are the "newest" employees of the company and that will be mentored by the retirees. This can be seen in the table below.
 
 ![mentorship_eligibility_img](Mentor_eligibility.png)
 
 # Analysis:
+As the "Silver Tsunami' takes place there will about 72,480 roles that will need to be filled, these are roles that will be left empty if there are no new hires. Looking at the the data and the amount of employees in this company, we would need more information about the workload of each employee. These roles are not unique, there are thousands of employees with the same title; having said that there are more employees that will not be retiring, and have the same company titles. It just comes down to the workload that the company will like to impose on each worker. Would the employees that are not retiring want to take the retirees workload? if so, they would need to do a minimal hiring process. It would just depend on the dynamics that each title requires, if each employee has their own project/clients that need to be taken care of, then there will have to be a massive hiring process for a smooth transition. (Please see below for company title count for employees that are not retiring).
 
+ ![non_retirees]()
+ 
+ When it comes to mentorship, we can see that there are only 1549 employees that would qualify for this. This would mean that each qualified employee that shares a title with a retiree, would be able to get a mentor. There are more than enough retirees that would be able to mentor each employee that corresponds to their role. You can see the table below for titles for the mentorship qualified employees and you can compare it to the retiree titles. 
+ 
+ ![mentorship_titles]()
+ ![retiring_titles_img](https://github.com/Mparra14/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png)
+ 
 
